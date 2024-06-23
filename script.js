@@ -1,24 +1,4 @@
 
-// let imag_url_arr=["lake-6701636_1920.jpg","road-6597404.jpg","mountain-8117525.jpg"];
-
-// let image_count=document.querySelector("#no-image").innerHTML=imag_url_arr.length;
-// let which_are_present_in_img=document.querySelector("#which-are-exist");
-
-// let backgorund_image=document.querySelector(".back-img");
-
-// let left_img=document.querySelector(".left");
-// let right_img=document.querySelector(".right");
-
-// var count=1;
-// left_img.addEventListener("click",()=>{
-//    --count;
-//    console.log(count);
-// })
-// right_img.addEventListener("click",()=>{
-//  console.log(count);
-//  count++;
-// })
-
 // Array of image URLs
 let imag_url_arr = ["lake-6701636_1920.jpg", "road-6597404.jpg", "mountain-8117525.jpg"];
 
