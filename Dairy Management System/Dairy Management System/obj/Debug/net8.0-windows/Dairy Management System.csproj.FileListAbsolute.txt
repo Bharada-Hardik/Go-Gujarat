@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\bin\Debug\net8.0-windows\Dairy Management System.exe
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\bin\Debug\net8.0-windows\Dairy Management System.deps.json
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\bin\Debug\net8.0-windows\Dairy Management System.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\bin\Debug\net8.0-windows\Dairy Management System.dll
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\bin\Debug\net8.0-windows\Dairy Management System.pdb
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\Dairy_Management_System.Form1.resources
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\Dairy Management System.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\Dairy Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\Dairy Management System.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\Dairy Management System.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\Dairy Management System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\Dairy Management System.dll
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\refint\Dairy Management System.dll
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\Dairy Management System.pdb
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\Dairy Management System.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\ref\Dairy Management System.dll
+C:\Users\Lenovo\source\repos\Dairy Management System\Dairy Management System\obj\Debug\net8.0-windows\Dairy_Management_System.Properties.Resources.resources
